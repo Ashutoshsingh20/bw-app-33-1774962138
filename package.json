@@ -1,7 +1,7 @@
 {
   "name": "bw-app-33-1774962138",
   "version": "1.0.0",
-  "description": "Static Bloom monochrome ops dashboard",
+  "description": "Quartz Relay monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"

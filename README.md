@@ -1,4 +1,4 @@
-# Static Bloom
+# Quartz Relay
 
 Monochrome light-themed ops dashboard with Express API and static UI.
 
